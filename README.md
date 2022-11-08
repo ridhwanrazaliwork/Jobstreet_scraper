@@ -2,6 +2,8 @@
 
 Primary function is to scrape for specific job title or specific keyword, such as fresh graduate, in the description of job listings.
 
+Warning : The urls are for the \*Malaysia Jobstreet site\*, **please change the urls accordingly** to fit your needs.
+
 The output of this scraper is a text file containing a **dictionary** for each fitting job and contains the following information with their keys:
 * jobstreet url - ```['link']```
 * position - ```['title']```
