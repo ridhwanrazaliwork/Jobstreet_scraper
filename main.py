@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup as sp 
-import requests , re , math , time , os
+import requests,re,math,time,os
 
 #attempt at obtaining url content
 #time in number of seconds until timeout
